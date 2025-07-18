@@ -1,0 +1,16 @@
+{
+  "name": "@workspace/consumer",
+  "version": "1.0.0",
+  "description": "package that consumes consumer and throws an error",
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "execute": "node ./src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "workspaces": [
+    "../consumed"
+  ]
+}

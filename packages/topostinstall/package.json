@@ -1,0 +1,16 @@
+{
+  "name": "@workspace/topostinstall",
+  "version": "1.0.0",
+  "description": "a post install function",
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "exports": {
+    ".": "./src/index.js"
+  },
+  "bin": "./src/index.js"
+}

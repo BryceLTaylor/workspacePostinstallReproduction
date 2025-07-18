@@ -1,0 +1,20 @@
+{
+  "name": "workspacepostinstallreproduction",
+  "version": "1.0.0",
+  "description": "reproduces an issue using npm postinstall with npm workspaces",
+  "homepage": "https://github.com/BryceLTaylor/workspacePostinstallReproduction#readme",
+  "bugs": {
+    "url": "https://github.com/BryceLTaylor/workspacePostinstallReproduction/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BryceLTaylor/workspacePostinstallReproduction.git"
+  },
+  "license": "ISC",
+  "author": "BryceLTaylor",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  }
+}
